@@ -30,7 +30,7 @@ body {
 h1 {
   padding: 2rem 0 0;
   font-size: 1.5rem;
-  margin-bottom: 1.5rem
+  margin-bottom: 1.5rem;
 }
 
 p {
@@ -99,7 +99,7 @@ a {
     padding: 1rem;
   }
 
-  img-flex {
+  .img-flex {
     display: inline-block;
     flex-wrap: wrap;
   }
@@ -109,7 +109,7 @@ a {
 @media only screen and (min-width: 90em) {
 
   html {
-    font-size: 130%
+    font-size: 130%;
   }
 
   section {
