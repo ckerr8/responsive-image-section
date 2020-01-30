@@ -73,7 +73,7 @@ a {
     width: 49%;
   }
 
-  .image-flex {
+  .img-flex {
     margin: 0;
   }
 
@@ -100,7 +100,7 @@ a {
     padding: 1rem;
   }
 
-  image-flex {
+  img-flex {
     display: inline-block;
     flex-wrap: wrap;
   }
