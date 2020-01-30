@@ -23,7 +23,7 @@ body {
   max-width: 50em;
 }
 
-.wrap {
+.wrapper {
   margin: 1rem 1rem 3rem;
 }
 
@@ -45,11 +45,11 @@ a {
   border-radius: 4px;
 }
 
-.button:hover {
+.btn:hover {
   background-color: #000;
 }
 
-.image-flex {
+.img-flex {
   display: block;
   width: 100%;
   margin-top: 2em;
@@ -62,7 +62,7 @@ a {
     line-height: 1.4;
   }
 
-  .wrap {
+  .wrapper {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -72,17 +72,17 @@ a {
     width: 49%;
   }
 
-  .img—flex {
+  .img-flex {
     margin: 0;
   }
 
-  .image {
+  .img {
     width: 50%;
     margin: 0;
     display: inline-block;
   }
 
-  .image .content {
+  .img, .content {
     display: inline-block;
   }
 
@@ -99,7 +99,7 @@ a {
     padding: 1rem;
   }
 
-  .img—flex {
+  .img-flex {
     display: inline-block;
     flex-wrap: wrap;
   }
